@@ -10,15 +10,6 @@
 
 [情感分析视频](qg2.mp4)
 
-<iframe 
-src="qa3.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
 
 ### 技术支持和联系
 email zhyxhys@163.com
