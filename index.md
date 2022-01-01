@@ -10,7 +10,9 @@
 
 [情感分析视频](qg2.mp4)
 
-[![问答视频]](qa3.mp4)
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="qa3.mp4" type="video/mp4">
+</videos>
 
 ### 技术支持和联系
 email zhyxhys@163.com
